@@ -60,13 +60,14 @@ nav {
 
 .dog{
 	position:relative;
-	left:800px;
-	top:200px;
+	left:210px;
+	top:150px;
 }
 
 .cat {
 	position: relative;
-	left:400px;
+	right:100px;
+	bottom:90px;
 }
 
 
