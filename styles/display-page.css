@@ -1,0 +1,42 @@
+.fixedwidth {
+    width:800px;
+    margin-right:auto;
+    margin-left: auto;
+     font-size:0;
+     border:1px solid black;
+
+}
+.widebox {
+width:50%;
+height:200px;
+ display: inline-block;
+
+
+}
+
+.boxes {
+
+	border:1px solid black;
+	font-size:0px;
+}
+
+.longbox {
+
+width:33.33%;
+height:300px;
+display: inline-block;
+
+
+}
+
+.blue {background-color: blue;}
+
+.green {background-color: green;}
+
+
+.grey {background-color:grey;}
+
+.black {background-color: black;}
+
+.yellow {background-color:yellow;}
+
