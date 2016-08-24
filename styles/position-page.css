@@ -1,1 +1,74 @@
 
+
+html { 
+  background: url("http://wallpapercave.com/wp/Z0ifRi4.jpg") no-repeat center center fixed; 
+  background-size: cover;
+}
+
+ul {
+list-style-type: none;
+display: inline;
+position: relative;
+bottom:30px;
+}
+
+li ::after {content:" |";}
+
+
+li { display: inline;}
+
+a:visited {
+	color:purple;
+}
+
+a:hover {
+	color:white;
+}
+
+a:link {color:black;}
+
+nav {
+	padding-top: 10px;
+    padding-right: 60px;
+    padding-left:60px;
+	background-color:grey;
+	text-align:left;
+	position:fixed;
+	width: 100%
+	}
+
+.imagecircle {
+    width:70px;
+    border-radius: 50%;
+}
+
+.dottedbox {
+	width:600px;
+	height: 300px;
+	border: 10px green dotted;
+	position:relative;
+	top:400px;
+
+}
+
+.fixedwidth {
+    width:600px;
+    margin-right:auto;
+    margin-left: auto;
+
+}
+
+.dog{
+	position:relative;
+	left:800px;
+	top:200px;
+}
+
+.cat {
+	position: relative;
+	left:400px;
+}
+
+
+
+
